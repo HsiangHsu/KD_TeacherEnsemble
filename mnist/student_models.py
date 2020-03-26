@@ -12,7 +12,8 @@ from sklearn.utils import shuffle
 from util import *
 
 
-def teacher(x, keep_prob, num_nodes):
+def student(x, keep_prob, num_nodes):
+
     # Layer 1
     W_h1 = weight_variable([784, num_nodes[0]])
     b_h1 = bias_variable([num_nodes[0]])
@@ -47,3 +48,18 @@ def teacher(x, keep_prob, num_nodes):
     y_soft_target = softmax_with_temperature(logits, temp=2.0, name='output_soft')
 
     return y, y_soft_target
+
+# def compute_soft_labels(input_x, input_y, teacher_id, kp):
+#     sess = tf.InteractiveSession()
+#     saver = tf.train.import_meta_graph('models/model_teacher'+str(teacher_id)+'.meta')
+#     saver.restore(sess, tf.train.latest_checkpoint('models/'))
+#     graph = tf.get_default_graph()
+#
+#     x = graph.get_tensor_by_name("x:0")
+#     y_ = graph.get_tensor_by_name("y_:0")
+#     keep_prob = graph.get_tensor_by_name("keep_prob:0")
+#     # output_soft = graph.get_tensor_by_name("output_soft:0")
+#
+#     soft_labels = sess.run(output_soft, feed_dict={x: input_x, y_: input_y, keep_prob: kp})
+#     sess.close()
+#     return soft_labels

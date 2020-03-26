@@ -8,4 +8,4 @@
 #SBATCH -o output.out	# File to which STDOUT will be written
 #SBATCH -e errors.err	# File to which STDERR will be written
 
-python3 train_teacher.py $i
+python3 test_teacher_noise.py

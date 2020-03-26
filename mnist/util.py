@@ -10,8 +10,8 @@ import pickle
 from time import localtime, strftime
 from sklearn.utils import shuffle
 
-from tensorflow.examples.tutorials.mnist import input_data
-mnist = input_data.read_data_sets('MNIST_data')
+# from tensorflow.examples.tutorials.mnist import input_data
+# mnist = input_data.read_data_sets('MNIST_data')
 
 def weight_variable(shape):
     initial = tf.truncated_normal(shape, stddev=0.1)
@@ -23,5 +23,6 @@ def bias_variable(shape):
 
 def softmax_with_temperature(logits, temp=1.0, axis=1, name=None):
     logits_with_temp = logits / temp
-    _softmax = tf.exp(logits_with_temp) / tf.reduce_sum(tf.exp(logits_with_temp), axis=axis, keep_dims=True)
+    # _softmax = tf.exp(logits_with_temp) / tf.reduce_sum(tf.exp(logits_with_temp), axis=axis, keep_dims=True)
+    _softmax = tf.math.divide(tf.exp(logits_with_temp), tf.reduce_sum(tf.exp(logits_with_temp), axis=axis, keep_dims=True), name=name)
     return _softmax
