@@ -1,0 +1,136 @@
+2020-04-06-15.57.11
+Teacher 0
+ Noise Variance: 0.0000
+  Train ACC: 0.7264, Test ACC: 0.7193
+ Noise Variance: 0.1000
+  Train ACC: 0.5472, Test ACC: 0.5389
+ Noise Variance: 0.2000
+  Train ACC: 0.2542, Test ACC: 0.2584
+ Noise Variance: 0.5000
+  Train ACC: 0.1298, Test ACC: 0.1347
+ Noise Variance: 1.0000
+  Train ACC: 0.1310, Test ACC: 0.1231
+ Noise Variance: 2.0000
+  Train ACC: 0.1166, Test ACC: 0.1077
+ Noise Variance: 5.0000
+  Train ACC: 0.1070, Test ACC: 0.1061
+Teacher 1
+ Noise Variance: 0.0000
+  Train ACC: 0.7390, Test ACC: 0.7291
+ Noise Variance: 0.1000
+  Train ACC: 0.5910, Test ACC: 0.5786
+ Noise Variance: 0.2000
+  Train ACC: 0.2670, Test ACC: 0.2669
+ Noise Variance: 0.5000
+  Train ACC: 0.1208, Test ACC: 0.1247
+ Noise Variance: 1.0000
+  Train ACC: 0.1264, Test ACC: 0.1215
+ Noise Variance: 2.0000
+  Train ACC: 0.1126, Test ACC: 0.1121
+ Noise Variance: 5.0000
+  Train ACC: 0.1020, Test ACC: 0.1036
+Teacher 2
+ Noise Variance: 0.0000
+  Train ACC: 0.7308, Test ACC: 0.7205
+ Noise Variance: 0.1000
+  Train ACC: 0.5670, Test ACC: 0.5568
+ Noise Variance: 0.2000
+  Train ACC: 0.2568, Test ACC: 0.2573
+ Noise Variance: 0.5000
+  Train ACC: 0.1450, Test ACC: 0.1502
+ Noise Variance: 1.0000
+  Train ACC: 0.1098, Test ACC: 0.1132
+ Noise Variance: 2.0000
+  Train ACC: 0.1016, Test ACC: 0.1007
+ Noise Variance: 5.0000
+  Train ACC: 0.1040, Test ACC: 0.0999
+Teacher 3
+ Noise Variance: 0.0000
+  Train ACC: 0.7366, Test ACC: 0.7256
+ Noise Variance: 0.1000
+  Train ACC: 0.5220, Test ACC: 0.5235
+ Noise Variance: 0.2000
+  Train ACC: 0.2500, Test ACC: 0.2459
+ Noise Variance: 0.5000
+  Train ACC: 0.1466, Test ACC: 0.1425
+ Noise Variance: 1.0000
+  Train ACC: 0.1228, Test ACC: 0.1158
+ Noise Variance: 2.0000
+  Train ACC: 0.1064, Test ACC: 0.1033
+ Noise Variance: 5.0000
+  Train ACC: 0.1046, Test ACC: 0.0975
+Teacher 4
+ Noise Variance: 0.0000
+  Train ACC: 0.7482, Test ACC: 0.7366
+ Noise Variance: 0.1000
+  Train ACC: 0.5434, Test ACC: 0.5299
+ Noise Variance: 0.2000
+  Train ACC: 0.1982, Test ACC: 0.1941
+ Noise Variance: 0.5000
+  Train ACC: 0.1120, Test ACC: 0.1117
+ Noise Variance: 1.0000
+  Train ACC: 0.1188, Test ACC: 0.1184
+ Noise Variance: 2.0000
+  Train ACC: 0.1044, Test ACC: 0.1021
+ Noise Variance: 5.0000
+  Train ACC: 0.1016, Test ACC: 0.1028
+Teacher 5
+ Noise Variance: 0.0000
+  Train ACC: 0.7300, Test ACC: 0.7229
+ Noise Variance: 0.1000
+  Train ACC: 0.5658, Test ACC: 0.5619
+ Noise Variance: 0.2000
+  Train ACC: 0.3090, Test ACC: 0.2903
+ Noise Variance: 0.5000
+  Train ACC: 0.1654, Test ACC: 0.1619
+ Noise Variance: 1.0000
+  Train ACC: 0.1258, Test ACC: 0.1186
+ Noise Variance: 2.0000
+  Train ACC: 0.1104, Test ACC: 0.1037
+ Noise Variance: 5.0000
+  Train ACC: 0.1098, Test ACC: 0.1012
+Teacher 6
+ Noise Variance: 0.0000
+  Train ACC: 0.7410, Test ACC: 0.7309
+ Noise Variance: 0.1000
+  Train ACC: 0.5828, Test ACC: 0.5719
+ Noise Variance: 0.2000
+  Train ACC: 0.2764, Test ACC: 0.2724
+ Noise Variance: 0.5000
+  Train ACC: 0.1400, Test ACC: 0.1390
+ Noise Variance: 1.0000
+  Train ACC: 0.1028, Test ACC: 0.1001
+ Noise Variance: 2.0000
+  Train ACC: 0.1020, Test ACC: 0.1000
+ Noise Variance: 5.0000
+  Train ACC: 0.1074, Test ACC: 0.0980
+Teacher 7
+ Noise Variance: 0.0000
+  Train ACC: 0.7148, Test ACC: 0.7155
+ Noise Variance: 0.1000
+  Train ACC: 0.6004, Test ACC: 0.6047
+ Noise Variance: 0.2000
+  Train ACC: 0.3492, Test ACC: 0.3500
+ Noise Variance: 0.5000
+  Train ACC: 0.1402, Test ACC: 0.1365
+ Noise Variance: 1.0000
+  Train ACC: 0.1064, Test ACC: 0.1102
+ Noise Variance: 2.0000
+  Train ACC: 0.1050, Test ACC: 0.1037
+ Noise Variance: 5.0000
+  Train ACC: 0.1042, Test ACC: 0.1027
+Teacher 8
+ Noise Variance: 0.0000
+  Train ACC: 0.7406, Test ACC: 0.7249
+ Noise Variance: 0.1000
+  Train ACC: 0.6078, Test ACC: 0.5964
+ Noise Variance: 0.2000
+  Train ACC: 0.3426, Test ACC: 0.3403
+ Noise Variance: 0.5000
+  Train ACC: 0.1626, Test ACC: 0.1646
+ Noise Variance: 1.0000
+  Train ACC: 0.1084, Test ACC: 0.1084
+ Noise Variance: 2.0000
+  Train ACC: 0.1048, Test ACC: 0.1020
+ Noise Variance: 5.0000
+  Train ACC: 0.1038, Test ACC: 0.1002
