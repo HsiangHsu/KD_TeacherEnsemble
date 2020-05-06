@@ -1,2 +1,6 @@
-model_checkpoint_path: "model_student9"
-all_model_checkpoint_paths: "model_student9"
+model_checkpoint_path: "model_student10"
+all_model_checkpoint_paths: "model_teacher9"
+all_model_checkpoint_paths: "model_student1"
+all_model_checkpoint_paths: "model_student3"
+all_model_checkpoint_paths: "model_student5"
+all_model_checkpoint_paths: "model_student10"

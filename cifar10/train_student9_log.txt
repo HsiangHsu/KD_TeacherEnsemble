@@ -1,8 +1,0 @@
-2020-04-06-21.01.34
-Training
-Epoch : 1, Loss : 3.5925, Accuracy: 0.1088, Test accuracy: 0.1063
-Epoch : 2, Loss : 2.4061, Accuracy: 0.1028, Test accuracy: 0.1001
-Epoch : 3, Loss : 2.3223, Accuracy: 0.0890, Test accuracy: 0.0898
-Epoch : 4, Loss : 2.3031, Accuracy: 0.0998, Test accuracy: 0.0952
-Epoch : 5, Loss : 2.3021, Accuracy: 0.1030, Test accuracy: 0.1000
-Epoch : 6, Loss : 2.2996, Accuracy: 0.1030, Test accuracy: 0.1000

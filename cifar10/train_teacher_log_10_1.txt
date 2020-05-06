@@ -1,0 +1,293 @@
+2020-05-04-20.00.13
+Training
+Validation set accuracy: 56.279999999999994
+Validation set accuracy: 62.62
+Validation set accuracy: 64.28
+Validation set accuracy: 67.12
+Validation set accuracy: 68.12
+Validation set accuracy: 68.76
+Validation set accuracy: 68.96
+Validation set accuracy: 68.72
+Validation set accuracy: 69.42
+Validation set accuracy: 69.46
+Teacher 0 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6865
+Teacher 0 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6669
+Teacher 0 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.604
+Teacher 0 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3057
+Teacher 0 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.1362
+Teacher 0 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1021
+Teacher 0 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1001
+Validation set accuracy: 56.04
+Validation set accuracy: 61.46
+Validation set accuracy: 64.46
+Validation set accuracy: 67.16
+Validation set accuracy: 68.17999999999999
+Validation set accuracy: 68.42
+Validation set accuracy: 69.88
+Validation set accuracy: 69.02000000000001
+Validation set accuracy: 69.06
+Validation set accuracy: 69.3
+Teacher 1 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6837
+Teacher 1 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6682
+Teacher 1 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.5941
+Teacher 1 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3199
+Teacher 1 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.2004
+Teacher 1 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1594
+Teacher 1 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1117
+Validation set accuracy: 56.49999999999999
+Validation set accuracy: 62.0
+Validation set accuracy: 63.68000000000001
+Validation set accuracy: 67.08
+Validation set accuracy: 67.7
+Validation set accuracy: 67.52
+Validation set accuracy: 68.02
+Validation set accuracy: 68.44
+Validation set accuracy: 68.14
+Validation set accuracy: 69.16
+Teacher 2 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6934
+Teacher 2 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6775
+Teacher 2 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6108
+Teacher 2 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3543
+Teacher 2 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.2241
+Teacher 2 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1628
+Teacher 2 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1211
+Validation set accuracy: 56.120000000000005
+Validation set accuracy: 61.82
+Validation set accuracy: 64.34
+Validation set accuracy: 65.42
+Validation set accuracy: 67.06
+Validation set accuracy: 67.67999999999999
+Validation set accuracy: 68.52000000000001
+Validation set accuracy: 69.67999999999999
+Validation set accuracy: 69.34
+Validation set accuracy: 69.02000000000001
+Teacher 3 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6855
+Teacher 3 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6758
+Teacher 3 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6311
+Teacher 3 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3531
+Teacher 3 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.202
+Teacher 3 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1576
+Teacher 3 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1217
+Validation set accuracy: 57.940000000000005
+Validation set accuracy: 62.56
+Validation set accuracy: 63.94
+Validation set accuracy: 67.28
+Validation set accuracy: 67.96
+Validation set accuracy: 68.97999999999999
+Validation set accuracy: 69.1
+Validation set accuracy: 69.46
+Validation set accuracy: 69.46
+Validation set accuracy: 70.02000000000001
+Teacher 4 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6926
+Teacher 4 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6801
+Teacher 4 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6306
+Teacher 4 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3826
+Teacher 4 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.165
+Teacher 4 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1049
+Teacher 4 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1001
+Validation set accuracy: 55.86
+Validation set accuracy: 61.28
+Validation set accuracy: 65.16
+Validation set accuracy: 66.74
+Validation set accuracy: 68.47999999999999
+Validation set accuracy: 68.22
+Validation set accuracy: 68.5
+Validation set accuracy: 69.34
+Validation set accuracy: 69.89999999999999
+Validation set accuracy: 70.3
+Teacher 5 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6923
+Teacher 5 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6822
+Teacher 5 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6196
+Teacher 5 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3407
+Teacher 5 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.1874
+Teacher 5 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1433
+Teacher 5 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1136
+Validation set accuracy: 55.42
+Validation set accuracy: 61.18
+Validation set accuracy: 65.12
+Validation set accuracy: 66.46
+Validation set accuracy: 66.97999999999999
+Validation set accuracy: 67.36
+Validation set accuracy: 69.22
+Validation set accuracy: 69.92
+Validation set accuracy: 68.67999999999999
+Validation set accuracy: 69.69999999999999
+Teacher 6 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6917
+Teacher 6 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6777
+Teacher 6 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6041
+Teacher 6 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3308
+Teacher 6 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.1841
+Teacher 6 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1162
+Teacher 6 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1031
+Validation set accuracy: 55.17999999999999
+Validation set accuracy: 61.760000000000005
+Validation set accuracy: 64.18
+Validation set accuracy: 67.30000000000001
+Validation set accuracy: 67.36
+Validation set accuracy: 67.56
+Validation set accuracy: 68.42
+Validation set accuracy: 69.42
+Validation set accuracy: 68.89999999999999
+Validation set accuracy: 70.08
+Teacher 7 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6837
+Teacher 7 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6728
+Teacher 7 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6178
+Teacher 7 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3648
+Teacher 7 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.2
+Teacher 7 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1589
+Teacher 7 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1287
+Validation set accuracy: 54.459999999999994
+Validation set accuracy: 59.98
+Validation set accuracy: 63.36000000000001
+Validation set accuracy: 65.12
+Validation set accuracy: 66.64
+Validation set accuracy: 67.30000000000001
+Validation set accuracy: 67.96
+Validation set accuracy: 68.22
+Validation set accuracy: 68.89999999999999
+Validation set accuracy: 68.52000000000001
+Teacher 8 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6789
+Teacher 8 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6658
+Teacher 8 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6043
+Teacher 8 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3724
+Teacher 8 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.2066
+Teacher 8 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1255
+Teacher 8 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.105
+Validation set accuracy: 54.08
+Validation set accuracy: 60.940000000000005
+Validation set accuracy: 61.72
+Validation set accuracy: 64.96
+Validation set accuracy: 66.32000000000001
+Validation set accuracy: 66.86
+Validation set accuracy: 68.17999999999999
+Validation set accuracy: 69.02000000000001
+Validation set accuracy: 68.44
+Validation set accuracy: 69.16
+Teacher 9 
+ Noise Variance: 0,  Teacher network test set accuracy: 0.6858
+Teacher 9 
+ Noise Variance: 0.1,  Teacher network test set accuracy: 0.6744
+Teacher 9 
+ Noise Variance: 0.2,  Teacher network test set accuracy: 0.6071
+Teacher 9 
+ Noise Variance: 0.5,  Teacher network test set accuracy: 0.3478
+Teacher 9 
+ Noise Variance: 1,  Teacher network test set accuracy: 0.2036
+Teacher 9 
+ Noise Variance: 2,  Teacher network test set accuracy: 0.1544
+Teacher 9 
+ Noise Variance: 5,  Teacher network test set accuracy: 0.1133
+Validation set accuracy: 39.72
+Validation set accuracy: 53.86
+Validation set accuracy: 58.660000000000004
+Validation set accuracy: 60.540000000000006
+Validation set accuracy: 61.199999999999996
+Validation set accuracy: 60.62
+Validation set accuracy: 61.419999999999995
+Validation set accuracy: 61.760000000000005
+Validation set accuracy: 64.32
+Validation set accuracy: 63.519999999999996
+Validation set accuracy: 64.5
+Validation set accuracy: 65.48
+Validation set accuracy: 66.66
+Validation set accuracy: 65.94
+Validation set accuracy: 66.62
+Validation set accuracy: 66.75999999999999
+Validation set accuracy: 65.18
+Validation set accuracy: 66.82000000000001
+Validation set accuracy: 66.92
+Validation set accuracy: 67.46
+Validation set accuracy: 67.25999999999999
+Validation set accuracy: 67.82000000000001
+Validation set accuracy: 66.75999999999999
+Validation set accuracy: 67.0
+Validation set accuracy: 66.53999999999999
+Validation set accuracy: 67.92
+Validation set accuracy: 67.84
+Validation set accuracy: 68.0
+Validation set accuracy: 67.9
+Validation set accuracy: 67.60000000000001
+Validation set accuracy: 67.67999999999999
+Validation set accuracy: 68.08
+Validation set accuracy: 67.16
+Validation set accuracy: 68.56
+Validation set accuracy: 67.22
+Validation set accuracy: 68.2
+Validation set accuracy: 68.78
+Validation set accuracy: 68.30000000000001
+Validation set accuracy: 68.38
+Validation set accuracy: 68.4
+Validation set accuracy: 68.72
+Validation set accuracy: 68.34
+Validation set accuracy: 68.7
+Validation set accuracy: 68.02
+Validation set accuracy: 68.30000000000001
+Validation set accuracy: 69.04
+Validation set accuracy: 68.66
+Validation set accuracy: 68.96
+Validation set accuracy: 68.06
+Validation set accuracy: 68.06
+... completed!

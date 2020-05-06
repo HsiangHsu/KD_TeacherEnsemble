@@ -1,0 +1,122 @@
+Validation set accuracy: 52.62
+Epoch: 1 Train accuracy = 44.74
+Validation set accuracy: 59.64
+Epoch: 2 Train accuracy = 58.73
+Validation set accuracy: 63.22
+Epoch: 3 Train accuracy = 64.56
+Validation set accuracy: 65.22
+Epoch: 4 Train accuracy = 68.34
+Validation set accuracy: 65.62
+Epoch: 5 Train accuracy = 71.15
+Validation set accuracy: 67.60000000000001
+Epoch: 6 Train accuracy = 73.72
+Validation set accuracy: 66.78
+Epoch: 7 Train accuracy = 76.32
+Validation set accuracy: 67.44
+Epoch: 8 Train accuracy = 78.35
+Validation set accuracy: 67.67999999999999
+Epoch: 9 Train accuracy = 80.24
+Validation set accuracy: 67.5
+Epoch: 10 Train accuracy = 82.38
+Teacher network test set accuracy: 0.6772
+epoch 1, average loss: 0.0036123448997735976
+Validation set accuracy: 42.76
+epoch 2, average loss: 0.003058393851088153
+Validation set accuracy: 50.239999999999995
+epoch 3, average loss: 0.0028705466243955824
+Validation set accuracy: 52.76
+epoch 4, average loss: 0.0027461871314379905
+Validation set accuracy: 56.52
+epoch 5, average loss: 0.002664451608227359
+Validation set accuracy: 57.64
+epoch 6, average loss: 0.0026125919098655384
+Validation set accuracy: 57.76
+epoch 7, average loss: 0.0025651030386487643
+Validation set accuracy: 60.4
+epoch 8, average loss: 0.0025305968463420867
+Validation set accuracy: 59.8
+epoch 9, average loss: 0.00250200207548009
+Validation set accuracy: 61.6
+epoch 10, average loss: 0.0024777520560555987
+Validation set accuracy: 62.18
+epoch 11, average loss: 0.002458676982588238
+Validation set accuracy: 62.68
+epoch 12, average loss: 0.002439338405761454
+Validation set accuracy: 62.8
+epoch 13, average loss: 0.0024244556720058124
+Validation set accuracy: 62.86000000000001
+epoch 14, average loss: 0.0024087480200661554
+Validation set accuracy: 63.160000000000004
+epoch 15, average loss: 0.0023961646692620383
+Validation set accuracy: 64.28
+epoch 16, average loss: 0.0023862589658962354
+Validation set accuracy: 64.74
+epoch 17, average loss: 0.002375817984011438
+Validation set accuracy: 64.92
+epoch 18, average loss: 0.002365946399503284
+Validation set accuracy: 64.56
+epoch 19, average loss: 0.0023590286451909276
+Validation set accuracy: 65.10000000000001
+epoch 20, average loss: 0.002350392927891678
+Validation set accuracy: 65.75999999999999
+epoch 21, average loss: 0.002341540227499273
+Validation set accuracy: 64.4
+epoch 22, average loss: 0.002335481362375948
+Validation set accuracy: 64.84
+epoch 23, average loss: 0.00232836401992374
+Validation set accuracy: 65.66
+epoch 24, average loss: 0.0023228851992223
+Validation set accuracy: 65.52
+epoch 25, average loss: 0.0023157062605023383
+Validation set accuracy: 65.5
+epoch 26, average loss: 0.0023101820881168047
+Validation set accuracy: 65.52
+epoch 27, average loss: 0.002306232212483883
+Validation set accuracy: 65.72
+epoch 28, average loss: 0.002298846953610579
+Validation set accuracy: 66.06
+epoch 29, average loss: 0.002295929944515228
+Validation set accuracy: 66.34
+epoch 30, average loss: 0.002292257630659474
+Validation set accuracy: 65.84
+epoch 31, average loss: 0.0022863347457514867
+Validation set accuracy: 66.88
+epoch 32, average loss: 0.002282851258913676
+Validation set accuracy: 66.66
+epoch 33, average loss: 0.0022784695011046196
+Validation set accuracy: 66.53999999999999
+epoch 34, average loss: 0.0022741351233588323
+Validation set accuracy: 67.02
+epoch 35, average loss: 0.0022712839654750296
+Validation set accuracy: 66.0
+epoch 36, average loss: 0.002266394938197401
+Validation set accuracy: 66.4
+epoch 37, average loss: 0.0022640925758414796
+Validation set accuracy: 67.44
+epoch 38, average loss: 0.002261233985092905
+Validation set accuracy: 67.22
+epoch 39, average loss: 0.002257991464601623
+Validation set accuracy: 66.82000000000001
+epoch 40, average loss: 0.0022550276630454594
+Validation set accuracy: 67.42
+epoch 41, average loss: 0.0022515373503168424
+Validation set accuracy: 66.3
+epoch 42, average loss: 0.0022488790949185687
+Validation set accuracy: 67.02
+epoch 43, average loss: 0.0022467156928446556
+Validation set accuracy: 66.94
+epoch 44, average loss: 0.0022439066469669344
+Validation set accuracy: 66.74
+epoch 45, average loss: 0.002241900990737809
+Validation set accuracy: 67.42
+epoch 46, average loss: 0.0022399415815869965
+Validation set accuracy: 66.46
+epoch 47, average loss: 0.0022362884951962364
+Validation set accuracy: 67.2
+epoch 48, average loss: 0.0022343346190121438
+Validation set accuracy: 67.08
+epoch 49, average loss: 0.0022318983940614596
+Validation set accuracy: 67.25999999999999
+epoch 50, average loss: 0.002229837156335513
+Validation set accuracy: 66.58
+Student network test set accuracy: 0.6746
